@@ -1,2 +1,2 @@
 # examrepo-6
-this is my first repo
+this is my first repository
